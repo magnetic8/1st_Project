@@ -86,16 +86,20 @@
 
 <br>
 
+
 ## ⚙ 시스템 아키텍처(구조) 예시 
-![시스템_아키텍처](/uploads/4e9d798595a09b6110e4dabb159e0ac0/시스템_아키텍처.jpg)
+![시스템 아키텍처](https://user-images.githubusercontent.com/108060144/191792863-796306dc-eaa1-452c-a096-cb428ead12f4.jpg)
+
 <br>
 
 ## 📌 SW유스케이스
-![sw유스케이스](/uploads/dabce6b940a330d65287a615d32eaf79/sw유스케이스.jpg)
+![sw유스케이스](https://user-images.githubusercontent.com/108060144/191792975-d3f46638-e481-4171-aa1c-5abef883ea16.jpg)
 <br>
 
+
 ## 📌 서비스 흐름도
-![서비스흐름도](/uploads/9355a5f9ea6877703047fc2cb3ff3a57/서비스흐름도.jpg)
+![서비스흐름도](https://user-images.githubusercontent.com/108060144/191793113-4e80bddc-b80e-492e-8b1a-07ca3f509f6b.jpg)
+
 <br>
 
 ## 📌 ER다이어그램
@@ -154,22 +158,22 @@
   
 * 문제1<br>
  문제점 : 회원가입 부분에서 아이디 중복체크를 구현하던 중 중복 체크 버튼 클릭시 다음과 같은 오류가 발생했다.
- ![1__1_](/uploads/8a57bd0d01d8c53ac2a3487d816c15b8/1__1_.png)
+ <img width="434" alt="1 (1)" src="https://user-images.githubusercontent.com/108060144/191793226-7565a86b-3ee4-4830-aa2f-6040fb1e1b8c.png">
  해결방안:  아이디 중복체크시 사용한 idcheck.jsp 가 WEB-INF 하위에 있어서 아이디 중복 체크가 안된거였다.
- viewresolver, memberfrontcontroller, handlermapping등을 이용하여 WEB-INF 하위에 있는 idcheck.jsp 를 꺼내고 
- idCheckController 클래스를 만들어서 해결했다. 
+ viewresolver, memberfrontcontroller, handlermapping등을 이용하여 WEB-INF 하위에 있는 idcheck.jsp로 이동시켜줬다.  
  그결과 아이디 중복체크 기능을 구현하고 더불어서 닉네임 중복체크 기능도 구현했다. 
- ![idCheckController_수정및_추가_부분](/uploads/80b3cc27686bd191f1055bff2a8d959e/idCheckController_수정및_추가_부분.png)
+ 
  
  
 * 문제2<br>
  문제점 : 아이디 중복체크, 회원수정 및 탈퇴, 회원정보 리스트를 화면에 보여주는 mapper(sql문)을 작성하는 상황에서
  서로 다른 두개의 테이블에 담겨 있는 아이디와 비번을 묶어서 sql문으로 작성해야 했다.
  해결방안 : 다음과 같은 방식으로 두 개의 서로 다른 테이블을 합침으로써 문제점을 해결했다. 
- ![화면_캡처_2022-08-29_181255](/uploads/e55ddfa8aa48f6796a74bde3da796404/화면_캡처_2022-08-29_181255.png)
+ ![화면 캡처 2022-08-29 181255](https://user-images.githubusercontent.com/108060144/191795014-e786328a-36d5-4dca-a7db-a810ac6acec2.png)
  
  * 문제3<br>
  문제점 : 아이디 중복체크 버튼 클릭시 사용가능한 아이디인지 불가능한 아이디인지 알림문장이 나와야 하는데 
  사용이 불가능한 아이디도 사용이 가능한 아이디라고 출력이 됐다. 
  해결방안 : if문을 사용함으로써 해결을 했다. 
- ![idcheck2_if문_수정](/uploads/9b7559dbb28a9211a370a314e21115f2/idcheck2_if문_수정.png)
+ ![idcheck2 if문 수정](https://user-images.githubusercontent.com/108060144/191795236-f4d5b903-a727-4221-a86b-a9de400a774e.png)
+
