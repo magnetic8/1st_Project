@@ -132,11 +132,11 @@
 <table>
   <tr>
     <td align="center"><img src="https://user-images.githubusercontent.com/108060144/193870782-8d0d61be-8e4e-44cc-b977-d9d610edc2bc.png" width="100" height="100"/></td>
-    <td align="center"><img src="https://mb.ntdtv.kr/assets/uploads/2019/01/Screen-Shot-2019-01-08-at-4.31.55-PM-e1546932545978.png" width="100" height="100"/></td>
-    <td align="center"><img src="https://mblogthumb-phinf.pstatic.net/20160127_177/krazymouse_1453865104404DjQIi_PNG/%C4%AB%C4%AB%BF%C0%C7%C1%B7%BB%C1%EE_%B6%F3%C0%CC%BE%F0.png?type=w2" width="100" height="100"/></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/108060144/193871794-93883309-928e-4d59-aff6-2d10f1c215d7.png" width="100" height="100"/></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/108060144/193872033-09a3ad1a-4eac-436e-b3b0-6c9ca66cb476.png" width="100" height="100"/></td>
     <td align="center"><img src="https://i.pinimg.com/236x/ed/bb/53/edbb53d4f6dd710431c1140551404af9.jpg" width="100" height="100"/></td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/108060144/193871455-1f7000d6-1800-435e-8c63-e668519ee997.jpg" width="100" height="100"/></td>
-     <td align="center"><img src="https://item.kakaocdn.net/do/fd49574de6581aa2a91d82ff6adb6c0115b3f4e3c2033bfd702a321ec6eda72c" width="100" height="100"/></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/108060144/193872289-9310ae8a-0dfe-4278-800e-151f3878e77e.png" width="100" height="100"/></td>
+     <td align="center"><img src="https://user-images.githubusercontent.com/108060144/193872151-4b2bf4ae-4e9b-4e26-80a6-981c12caf6b8.png" width="100" height="100"/></td>
   </tr>
   <tr>
     <td align="center"><strong>정유리</strong></td>
