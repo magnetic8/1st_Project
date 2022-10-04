@@ -134,8 +134,8 @@
     <td align="center"><img src="https://user-images.githubusercontent.com/108060144/193870782-8d0d61be-8e4e-44cc-b977-d9d610edc2bc.png" width="100" height="100"/></td>
     <td align="center"><img src="https://user-images.githubusercontent.com/108060144/193871794-93883309-928e-4d59-aff6-2d10f1c215d7.png" width="100" height="100"/></td>
     <td align="center"><img src="https://user-images.githubusercontent.com/108060144/193872033-09a3ad1a-4eac-436e-b3b0-6c9ca66cb476.png" width="100" height="100"/></td>
-    <td align="center"><img src="https://i.pinimg.com/236x/ed/bb/53/edbb53d4f6dd710431c1140551404af9.jpg" width="100" height="100"/></td>
     <td align="center"><img src="https://user-images.githubusercontent.com/108060144/193872289-9310ae8a-0dfe-4278-800e-151f3878e77e.png" width="100" height="100"/></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/108060144/193872477-c90da1b8-d02b-45e5-9392-6803e343e2fe.png" width="100" height="100"/></td>
      <td align="center"><img src="https://user-images.githubusercontent.com/108060144/193872151-4b2bf4ae-4e9b-4e26-80a6-981c12caf6b8.png" width="100" height="100"/></td>
   </tr>
   <tr>
@@ -147,15 +147,15 @@
     <td align="center"><strong>최정윤</strong></td>
   </tr>
   <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td align="center"><b>Frontend</b></td>
-    <td align="center"><b>Backend</b></td>
-    <td align="center"><b>Backend</b></td>
-    <td align="center"><b>Deep Learning</b></td>
-    <td align="center"><b>Deep Learning</b></td>
+    <td align="center"><b>칼럼&실천해요 게시판 Front디자인,회원가입, 마이페이지</b></td>
+    <td align="center"><b>로그인 및 회원가입, 카카오로그인,마이페이지,칼럼크롤링,함께해요게시판</b></td>
+    <td align="center"><b>지도게시판 기능구현, 댓글 구현, 실천해요게시판</b></td>
+    <td align="center"><b>유튜브, 유저게시판</b></td>
+    <td align="center"><b>프로젝트 총괄,공지사항 기능수정, 지도,관리자 페이지 기능구현, 등급제 게시판</b></td>
+    <td align="center"><b>메인페이지 디자인,디자인 총괄, 칼럼 크롤링,주간 인기검색어,공동구매게시판</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
