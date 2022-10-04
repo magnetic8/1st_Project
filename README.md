@@ -108,16 +108,24 @@
 
 ## 🖥 화면 구성
 
-### 로그인/회원가입/회원괸리/회원수정/회원탈퇴
-![image](https://user-images.githubusercontent.com/25995055/178401098-95f15a0e-a2de-415e-83d5-883bb4cb0656.png)
+### 로그인/회원가입
+![로그인_회원가입](https://user-images.githubusercontent.com/108060144/193868357-2874bd26-9a4a-4399-9092-f04b17b487fe.png)
 <br>
 
-### 옷 정보/코디 추천(날씨, 팁, 오늘의 코디, 참고할 수 있는 코디)
-![image](https://user-images.githubusercontent.com/25995055/178401127-287e6de2-4396-49fc-a107-59c4d5cd55c7.png)
+### 회원정보리스트/회원수정/회원탈퇴
+![회원정보리스트_회원정보수정_회원정보탈퇴](https://user-images.githubusercontent.com/108060144/193868497-1ffd096b-7000-43f1-959b-5ae5d5803cde.png)
 <br>
 
-### 일정/고객센터
-![image](https://user-images.githubusercontent.com/25995055/178401150-861f0e93-0f40-4fae-98c1-2099bf513c8d.png)
+### MAP/유튜브/컬럼게시판
+![map_유튜브_칼럼크롤링](https://user-images.githubusercontent.com/108060144/193868636-60a05278-fd2d-4a82-baad-df04d4815eac.png)
+<br>
+
+### 주간인기검색어/마이페이지/실천해요
+![주간인기검색어_마이페이지_실천해요](https://user-images.githubusercontent.com/108060144/193868763-0ffbb941-7f0c-4cb7-9da8-006da086a28b.png)
+<br>
+
+### 공동구매/자유게시판/함께해요/아나바다
+![공동구매_자유게시판_함께해요_아나바다](https://user-images.githubusercontent.com/108060144/193868899-1bb270bf-16f9-4ffe-89c5-ff6749830c94.png)
 <br>
 
 ## 👨‍👩‍👦‍👦 팀원 역할
@@ -130,11 +138,12 @@
     <td align="center"><img src="https://pbs.twimg.com/media/B-n6uPYUUAAZSUx.png" width="100" height="100"/></td>
   </tr>
   <tr>
-    <td align="center"><strong>홍O동</strong></td>
-    <td align="center"><strong>홍O동</strong></td>
-    <td align="center"><strong>홍O동</strong></td>
-    <td align="center"><strong>홍O동</strong></td>
-    <td align="center"><strong>홍O동</strong></td>
+    <td align="center"><strong>정유리</strong></td>
+    <td align="center"><strong>이동영</strong></td>
+    <td align="center"><strong>배수진</strong></td>
+    <td align="center"><strong>정대일</strong></td>
+    <td align="center"><strong>최정윤</strong></td>
+    <td align="center"><strong>최정윤</strong></td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
