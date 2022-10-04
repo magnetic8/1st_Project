@@ -155,12 +155,12 @@
     <td align="center"><b>메인페이지 디자인,디자인 총괄, 칼럼 크롤링,주간 인기검색어,공동구매게시판</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/magnetic8" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/suuuuuejin" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/ldy28" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/imhyeongjong" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/Arcana12" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/Amarinnn" target='_blank'>github</a></td>
   </tr>
 </table>
 
